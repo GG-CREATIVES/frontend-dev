@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+.header{
+    margin:20px 0 ;
+}
+
+.header h1{
+    text-align: center;
+    font-size: 30px;
+}
+.backgroundImage{
+    text-align: center;
+}
+
+.backgroundImage img{
+    width: 90%;
+    height: 20vh;
+}
